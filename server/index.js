@@ -30,7 +30,7 @@ let port = process.env.PORT || 4000;
 
 //     console.log("Connected to database.");
 //   })
-//   .catch((err) => {
+//   .catch((err) => {d
 //     console.log("Unable to connect to MongoDB. Error: " + err);
 //   });
 app.listen(port, () => {
